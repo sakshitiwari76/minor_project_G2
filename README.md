@@ -6,21 +6,21 @@ The dataset includes details about startups, cities, industries, investors, fund
 
 **What I Did**
 
-Cleaned the dataset in Power Query
-Removed blanks, fixed city names, corrected amount values
-Converted funding amount into proper numeric format
-Created new columns like Year, Month, and cleaned Investors
-Removed duplicate entries
+Cleaned the dataset in Power Query.
+Removed blanks, fixed city names, corrected amount values.
+Converted funding amount into proper numeric format.
+Created new columns like Year, Month, and cleaned Investors.
+Removed duplicate entries.
 
 
 **Dashboard Highlights**
 
 The Power BI dashboard includes:
 
-Industry-wise funding (Bar chart)
-Year-wise funding trend (Line chart)
-Top funded cities (Column chart)
-Top investors (Donut chart)
+Industry-wise funding (Bar chart).
+Year-wise funding trend (Line chart).
+Top funded cities (Column chart).
+Top investors (Donut chart).
 
 
 **Dataset**
@@ -39,7 +39,7 @@ Power Query
 
 This project helps understand:
 
-Which industries get the most funding
-Which cities attract the most investors
-Who the top investors are
-How funding trends change over time
+Which industries get the most funding.
+Which cities attract the most investors.
+Who the top investors are.
+How funding trends change over time.
